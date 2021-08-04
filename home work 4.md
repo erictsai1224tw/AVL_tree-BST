@@ -103,7 +103,7 @@ digraph Tree{
     65 -> 67
 }
 ```
-如果是以 AVL tree 插入這些資料，由以上的 preOrder, inOrder可得到唯一的二元數為
+如果是以 AVL tree 插入這些資料，由以上的 preOrder, inOrder可得到唯一的二元樹為
 
 ```graphviz
 digraph Tree{
