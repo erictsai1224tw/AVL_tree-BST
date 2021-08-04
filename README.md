@@ -1,6 +1,8 @@
 # AVL Tree library
 註: 本專案亦含有BST source code   
 
+作業網址: [https://hackmd.io/@chtsai/2020DS-homework-4](https://hackmd.io/@chtsai/2020DS-homework-4)
+
 **AVL Tree 需要的節點結構:**
 ```c
 typedef struct avl_node
