@@ -1,9 +1,5 @@
 # AVL Tree library
 
-作業網址: [https://hackmd.io/@chtsai/2020DS-homework-4](https://hackmd.io/@chtsai/2020DS-homework-4)
-
-github: [https://github.com/erictsai1224tw/erictsai/tree/DS/AVL_Tree](https://github.com/erictsai1224tw/erictsai/tree/DS/AVL_Tree)
-
 **AVL Tree 需要的節點結構:**
 ```c
 typedef struct avl_node
@@ -85,7 +81,7 @@ static avl_node_t *LL(avl_node_t *node)
 ```
 
 ### LR(插入在左子樹的右邊)
-先左轉再右轉...
+先左轉再右轉
 ```c
 static avl_node_t *LR(avl_node_t *node)
 {
@@ -95,7 +91,7 @@ static avl_node_t *LR(avl_node_t *node)
 ```
 
 ### RL(插入在右子樹的左邊)
-先右轉再左轉，這樣比較好記😆
+先右轉再左轉
 ```c
 static avl_node_t *RL(avl_node_t *node)
 {
@@ -366,6 +362,4 @@ digraph Tree{
     40 -> 60
 }
 ```
-
-ok，這大概就是這學期資料結構的最後一個作業了，拜拜~
 ###### tags: `DS` `AVL Tree` `BST`
