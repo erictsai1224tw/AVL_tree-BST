@@ -1,5 +1,5 @@
-# AVL Tree library
-註: 本專案亦含有BST source code   
+# AVL & BST Tree library
+註: 本專案採用函數指標，使用者可自訂資料節點大小，關於指標函數請觀看func_ptr.md的說明  
 
 作業網址: [https://hackmd.io/@chtsai/2020DS-homework-4](https://hackmd.io/@chtsai/2020DS-homework-4)
 
