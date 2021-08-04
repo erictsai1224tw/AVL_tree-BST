@@ -1,5 +1,5 @@
 # AVL Tree library
-
+註: 本專案亦含有BST source code 
 **AVL Tree 需要的節點結構:**
 ```c
 typedef struct avl_node
